@@ -1,9 +1,10 @@
 /* if you use this, you are mentally retarded */
 #include <string.h>
+#include <stdint.h>
 
 void leftpad(char *dest, char *src, size_t target_length)
 {
-	int length = strlen(src);
+	size_t length = strlen(src);
 
 	if(length >= target_length)
 	{
