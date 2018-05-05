@@ -22,5 +22,5 @@ int main()
 ```
 
 ## Questions?
-I don't give a fuck.
- 
+Ask [here](http://www.duckduckgo.com/).
+
