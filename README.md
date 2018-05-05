@@ -9,6 +9,7 @@ Pads a string with whitespace
 
 ## How to use
 ```c
+#include <stdlib.h>
 #include "leftpad.h"
 
 int main()
