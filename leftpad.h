@@ -6,7 +6,7 @@ extern "C"
 {
 #endif
 
-void leftpad(char *dest, char *src, int target_length);
+void leftpad(char *dest, char *src, size_t target_length);
 
 #ifdef __cplusplus
 }

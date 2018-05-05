@@ -1,7 +1,7 @@
 /* if you use this, you are mentally retarded */
 #include <string.h>
 
-void leftpad(char *dest, char *src, int target_length)
+void leftpad(char *dest, char *src, size_t target_length)
 {
 	int length = strlen(src);
 
